@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Presentación y Menú de Ejercicio</title>
+</head>
+<body>
+    <h1>Mi Presentación</h1>
+    <p>¡Hola! Soy [RICARDO DANIEL CARRILLO SANCHEZ] y esta es mi tarea práctica para la asignatura PROGRAMACIÓN WEB AVANZADA</p>
+
+    <h2>Menú de Ejercicios</h2>
+    <ul>
+        <li><a href="ej01.html">Ejercicio 1</a></li>
+    </ul>
+</body>
+</html>
